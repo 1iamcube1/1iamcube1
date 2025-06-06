@@ -1,72 +1,60 @@
-<!-- Profile README | PHAM CONG NGUYEN KHOI -->
+# 👨‍🚀 Welcome, I'm Khoi — Data Explorer of the Universe! 🚀
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=star&color=0:001848,100:1976D2&height=200&section=header&text=PHAM%20CONG%20NGUYEN%20KHOI&fontSize=40&fontColor=F3F6F9&animation=twinkling"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&random=false&width=435&lines=Data+Analyst+exploring+the+data+universe;Building+insights+across+the+galaxies+✨;Converting+data+into+cosmic+stories+🌌)
+</div>
 
-<h2 align="center">👨‍🚀 Welcome, I'm Khoi — Data Explorer of the Universe! 🚀</h2>
+## 🛸 About Me
+Hello, travelers!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEhmKspz8b1GzR2ys/giphy.gif" width="180" alt="Astronaut"/>
-</p>
+I'm Khoi, a data analyst who loves exploring the endless universe of data and uncovering hidden patterns among the stars. Like a cosmic explorer, I navigate through vast datasets, seeking insights that illuminate the unknown and empower discovery.
 
----
+## 🌠 My Superpowers
+- 🌌 SQL — Charting constellations in databases
+- 🚀 Python — Code that launches ideas into orbit
+- ⭐ Power BI & Tableau — Building dashboards that visualize the cosmos
+- 💫 Data Analysis & Statistics — Decoding the signals of distant galaxies
+- 🛸 Automation — Sending probes to collect data from every corner
+- 📡 Storytelling — Translating cosmic data into stories for Earthlings
 
-### 🌌 About Me
+## 🌍 Current Mission
+- 📊 Data Analyst Intern at WINWIN LOGISTICS
+- 🎓 Exploring Digital Business and AI at University of Economics and Law (UEL)
+- 🌠 Based in Ho Chi Minh City's Star System
+- 📫 Send intergalactic messages to: phamkhoi1602fw@gmail.com
 
-Hello, traveler!  
-I’m Khoi, a data analyst who loves exploring the endless universe of data and uncovering hidden patterns among the stars.  
-Like a cosmic explorer, I navigate through vast datasets, seeking insights that illuminate the unknown and empower discovery.
+## 🏆 Space Achievements
+- 🎯 TOEIC Certificate (690 - 270)
+- 📊 Data Analyst Associate certificate (Datacamp)
+- 💻 Querying Data with Microsoft T-SQL (Microsoft)
+- 🌟 Google Data Analytics Certificate (Coursera)
 
----
+## 🛠️ Tech Stack
+<div align="center">
+  
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+</div>
 
-### 🛸 My Superpowers
+## 📊 Cosmic Statistics
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1iamcube1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1iamcube1&layout=compact&theme=radical)
+</div>
 
-- **SQL** — Charting constellations in databases
-- **Python** — Code that launches ideas into orbit
-- **Power BI & Tableau** — Building dashboards that visualize the cosmos
-- **Data Analysis & Statistics** — Decoding the signals of distant galaxies
-- **Automation** — Sending probes to collect data from every corner
-- **Storytelling** — Translating cosmic data into stories for Earthlings
-
----
-
-### 🪐 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-1976D2?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-6C3483?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation-27AE60?style=for-the-badge"/>
-</p>
-
----
-
-### 🌠 Contact
-
-<p>
-  <a href="mailto:phamkhoi1602fw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/khoi-pham-cong-nguyen-110ba3248/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1iamcube1&show_icons=true&theme=radical" width="400" />
-</p>
+## 🌌 Connect Across the Universe
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoi-pham-cong-nguyen-110ba3248/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamkhoi1602fw@gmail.com)
+</div>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <br>
-  <sub>“Let curiosity be your spaceship and data your stars.”</sub>
-</p>
-
-![image1](image1)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
