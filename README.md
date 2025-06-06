@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="800">
+</div>
 # 👨‍🚀 Welcome, I'm Khoi — Data Explorer of the Universe! 🚀
 
 <div align="center">
