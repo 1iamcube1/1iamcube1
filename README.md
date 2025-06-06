@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="800">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWhtejc5dmVhYjc4OGwwNmgwMzhucW1qajd3ODBoaHJmb2cyamg0dyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l0Iyj0vmVEZcJmvM4/giphy.gif">
 </div>
 # 👨‍🚀 Welcome, I'm Khoi — Data Explorer of the Universe! 🚀
 
