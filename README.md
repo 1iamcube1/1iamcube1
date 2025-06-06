@@ -2,10 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWhtejc5dmVhYjc4OGwwNmgwMzhucW1qajd3ODBoaHJmb2cyamg0dyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l0Iyj0vmVEZcJmvM4/giphy.gif" width="1000" height="300">
 </div>
 
-# 👨‍🚀 Welcome, I'm Khoi — Data Explorer of the Universe! 🚀
+<h1 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  Welcome, I'm Khoi — Data Explorer of the Universe!
+  <img src="https://media.giphy.com/media/3ohs4gSs3V0Q7qOtKU/giphy.gif" width="50">
+</h1>
 
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&random=false&width=435&lines=Data+Analyst+exploring+the+data+universe;Building+insights+across+the+galaxies+✨;Converting+data+into+cosmic+stories+🌌)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&random=false&width=435&lines=Data+Analyst+exploring+the+data+universe;Building+insights+across+the+galaxies+✨;Converting+data+into+cosmic+stories+🌌">
 </div>
 
 ## 🛸 About Me
