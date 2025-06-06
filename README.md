@@ -58,5 +58,5 @@ I'm Khoi, a data analyst who loves exploring the endless universe of data and un
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nm1raGNidTBnMTBrczRhY3ljYTZvM252YmpwbDZ6ODBlencxNTVqbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GIb2T02ucvgT5db5LJ/giphy.gif" width="800">
 </div>
