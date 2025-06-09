@@ -38,9 +38,12 @@ I'm Khoi, a data analyst who loves exploring the endless universe of data and un
 
 ## 🛠️ Tech Stack
 <div align="center">
-  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,tensorflow,pandas,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,tensorflow,mongodb&theme=dark&perLine=5" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=r,selenium,vscode,github&theme=dark&perLine=5" />
+  <br>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" style="margin: 5px; background: #242938; padding: 5px; border-radius: 5px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" style="margin: 5px; background: #242938; padding: 5px; border-radius: 5px;"/>
 </div>
 
 ## 📊 Cosmic Statistics
