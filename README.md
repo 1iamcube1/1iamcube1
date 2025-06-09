@@ -26,7 +26,6 @@ I'm Khoi, a data analyst who loves exploring the endless universe of data and un
 - 📡 Storytelling — Translating cosmic data into stories for Earthlings
 
 ## 🌍 Current Mission
-- 📊 Data Analyst Intern at WINWIN LOGISTICS
 - 🎓 Exploring Digital Business and AI at University of Economics and Law (UEL)
 - 🌠 Based in Ho Chi Minh City's Star System
 - 📫 Send intergalactic messages to: phamkhoi1602fw@gmail.com
@@ -40,10 +39,8 @@ I'm Khoi, a data analyst who loves exploring the endless universe of data and un
 ## 🛠️ Tech Stack
 <div align="center">
   
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,tensorflow,pandas,vscode,github&theme=dark" />
 </div>
 
 ## 📊 Cosmic Statistics
