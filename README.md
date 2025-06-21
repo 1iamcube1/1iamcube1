@@ -38,19 +38,11 @@ I'm Khoi, a data analyst who loves exploring the endless universe of data and un
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,tensorflow,mongodb&theme=dark&perLine=5" />
+  <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="35" height="35" style="margin: 5px; background: #242938; padding: 5px; border-radius: 5px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="35" height="35" style="margin: 5px; background: #242938; padding: 5px; border-radius: 5px;"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=r,selenium,vscode,github&theme=dark&perLine=5" />
-  <br>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" style="margin: 5px; background: #242938; padding: 5px; border-radius: 5px;"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" style="margin: 5px; background: #242938; padding: 5px; border-radius: 5px;"/>
-</div>
-
-## 📊 Cosmic Statistics
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1iamcube1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1iamcube1&layout=compact&theme=radical)
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,tensorflow,mongodb,selenium" />
 </div>
 
 ## 🌌 Connect Across the Universe
